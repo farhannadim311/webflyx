@@ -1,0 +1,42 @@
+[33mcommit 1b33103d2cdb0f58661c948d3228ff6154ab4545[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: farhannadim311 <farhannadim311@gmail.com>
+Date:   Sat Feb 1 17:09:41 2025 -0600
+
+    G:
+
+[33mcommit 8688932d475af49fd09ba1c570e618c6d8257f4f[m
+Merge: 65a2a5d a8c3f24
+Author: farhannadim311 <farhannadim311@gmail.com>
+Date:   Sat Feb 1 17:04:36 2025 -0600
+
+    F: Merge
+
+[33mcommit 65a2a5d3ddf625841edf1b7db9614f7325ba81ed[m
+Author: farhannadim311 <farhannadim311@gmail.com>
+Date:   Sat Feb 1 17:01:37 2025 -0600
+
+    E: added
+
+[33mcommit a8c3f24ec12824c73125877058d68c0c76295927[m
+Author: farhannadim311 <farhannadim311@gmail.com>
+Date:   Sat Feb 1 16:52:44 2025 -0600
+
+    "D: Did it"
+
+[33mcommit 6582013c7356ac74061c53f2ee657b9c7dc3adc6[m
+Author: farhannadim311 <farhannadim311@gmail.com>
+Date:   Sat Feb 1 16:30:32 2025 -0600
+
+    C: add quotes
+
+[33mcommit aa924a2cf895b44ccc61c029ac9dca2d7dde309f[m
+Author: farhannadim311 <farhannadim311@gmail.com>
+Date:   Sat Feb 1 16:21:39 2025 -0600
+
+    B:add titles
+
+[33mcommit 3866867cbd58fe1f0b556d180ef71e2bbcd7e2f9[m
+Author: farhannadim311 <farhannadim311@gmail.com>
+Date:   Thu Jan 30 15:23:58 2025 -0600
+
+    A: add contents.md
